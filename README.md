@@ -8,6 +8,7 @@ Tracker for e30 ~~LS3~~ LT1 gen V swap project.
 - Move e30 back into garage
 - Fabricate removable frontend (pita now for less pita future)
 - Temporarily mount transmission to engine
+- Make front end removable 
 - Finish engine mounts
   - SCS components (block mount + tabs)
   - Order Bushing (DOM)
