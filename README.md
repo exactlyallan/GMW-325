@@ -8,11 +8,8 @@ Tracker for e30 ~~LS3~~ LT1 gen V swap project.
 - Move e30 back into garage
 - Fabricate removable frontend (pita now for less pita future)
 - Temporarily mount transmission to engine
-- Make front end removable 
 - Finish engine mounts
-  - SCS components (block mount + tabs)
-  - Order Bushing (DOM)
-  - Fabricate
+  - Finish Fabrication
 - Finish transmission mounts
   - Order shifter relocation kit 
   - Find mount points + get right angle
@@ -28,7 +25,7 @@ Tracker for e30 ~~LS3~~ LT1 gen V swap project.
   - Order SCS
   - Weld in place
   - Seam seal
-- Clean up engine bay (i.e. paint)
+- Clean up engine bay (i.e. patch 'n paint)
 - Fabricate steering column + pedal box + digital dash mount
   - Order master cylinders (clutch, rear, front brake)
   - Fabricate acceleration pedal mount to pedal box
@@ -91,6 +88,7 @@ Tracker for e30 ~~LS3~~ LT1 gen V swap project.
   - Cross fingers and tripple check with B.A.R rules
 - Fabricate exhaust
 - Order drive shaft
+- Setup wipers
 
 ## Side Projects
 - Convert windows to crank windows
